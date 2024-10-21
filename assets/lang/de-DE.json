@@ -1,1 +1,64 @@
-
+{
+  "about": {
+    "me": "Ich suche neue Herausforderungen im Bereich Softwareentwicklung. Ich beherrsche alle gängigen Programmiersprachen auf verschiedenen Systemen und bin es gewohnt, komplexe Projekte erfolgreich umzusetzen.",
+    "chooseme": "Warum Mich Wählen ?",
+    "skill": "Mein Fähigkeiten",
+    "m2": "Full Stack Entwickler: Ich beherrsche alle gängigen Programmiersprachen auf verschiedenen Systemen und bin erfahren darin, eigenverantwortlich nach Lösungen zu suchen und größere Projekte zu leiten."
+  },
+  "lang": {
+    "ENG": "Englisch",
+    "GER": "Deutsch"
+  },
+  "cv": {
+    "CV-ENG": "Lebenslauf EN",
+    "CV-GER": "Lebenslauf DE"
+  },
+  "month": {
+    "3": "März",
+    "4": "April",
+    "5": "Mai",
+    "6": "Juni",
+    "7": "Juli",
+    "8": "August",
+    "10": "Oktober",
+    "11": "November"
+  },
+  "Qualifications": {
+    "Qualifications": "Meine Qualifikationen",
+    "to": "bis",
+    "present": "bis heute",
+    "FSD": "FULL-STACK ENTWICKLER bei Inovasquad (www.inovasquad.com)",
+    "FS": "FULL STACK ENTWICKLER",
+    "Diploma": "Diplom in Informationstechnologie",
+    "Diplomatxt": "Spezialisiertes Institut für Angewandte Informationstechnologie",
+    "Bachelor": "Abitur in Physikalischen Wissenschaften",
+    "jobtext": "Arbeiten für ein Marketingunternehmen (GM solution SARL) mit IT-Lösungen",
+    "SwD": "SOFTWARE DEVELOPER bei forium GmbH, Berlin, Deutschland (www.forium.de).",
+    "inper": "SOFTWARE DEVELOPER bei INperfektion GmbH, wegberg, Deutschland (www.inperfektion.de)."
+  },
+  "accounts": {
+    "more": "Weitere Details",
+    "android": "Hier finden Sie alle meine Android Apps",
+    "ios": "Hier finden Sie alle meine IOS Apps",
+    "link": "Mein linkedin",
+    "Git": "Hier finden Sie den gesamten Quellcode in GitHub",
+    "xing": "Mein Xing"
+  },
+  "pro": {
+    "coming": "Demnächst"
+  },
+  "contact": {
+    "contact": "Kontaktiere Mich",
+    "mar": "Marokko"
+  },
+  "steuer": {
+    "suptitle": "Freelance Arbeit bei forium GmbH (Berlin, Deutschland).",
+    "text1": "Ich war Teil des Entwicklungsteams für mobile app (forium GmbH).",
+    "text2": "Ich habe neue Funktionen in der App implementiert. (SteuerGo - Deine Steuer-App).",
+    "text3": "Die Kommunikation basierte hauptsächlich auf MS Teams."
+  },
+  "inperfcktion": {
+    "suptitle": "Fernarbeit bei der INperfektion GmbH (wegberg, Deutschland).",
+    "text1": "Ich habe erfolgreich zahlreiche Anwendungen und Websites entworfen und implementiert, die Prozesse rationalisiert und die Benutzerfreundlichkeit verbessert haben."
+  }
+}
