@@ -1,0 +1,81 @@
+
+
+.btn.btn-outline-link{
+  background-color: #fff !important;
+  border: 1px solid #fff !important;
+  color: #5a4fdc !important;
+}
+
+.site-section {
+  padding-top: 90px;
+}
+
+.section-skills,
+.section-portfolio,
+.section-form {
+    padding-bottom: 90px;
+}
+
+.site-section h2,
+.site-section h3 {
+  font-size: 32px
+}
+
+/* Section: Skills */
+.section-skills .col-md-4 + .col-md-4,
+.skill + .skill {
+  margin-top: 20px;
+}
+
+.skill h4 {
+  font-size: 22px;
+}
+
+/* Section: Services */
+.section-services{
+  padding-top: 200px;
+}
+
+.section-services .container {
+  padding: 70px 90px;
+}
+
+.service h4 {
+  font-size: 22px;
+}
+
+/* Section: Portfolio */
+.section-portfolio .col-md-4:nth-last-child(-n+3) .portfolio-item {
+    margin-bottom: 30px;
+}
+
+.section-portfolio .col-md-4:nth-last-child(-n+2) .portfolio-item {
+    margin-bottom: 0;
+}
+
+/* Section: Counters */
+.section-counters {
+  padding: 70px 0;
+}
+
+.site-section p.counter {
+  font-size: 80px;
+}
+
+/* Modal */
+.modal-header {
+  height: 350px;
+}
+
+
+.progress {
+  height: 15px;
+  margin-bottom: 0;
+  border-radius: 0;
+  background-color: #dfdfdf;
+  box-shadow: none;
+}
+
+.progress-bar {
+  background-color: #5a4fdc;
+}
