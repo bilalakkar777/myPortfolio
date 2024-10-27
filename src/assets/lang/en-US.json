@@ -1,0 +1,64 @@
+{
+  "about": {
+    "me": "I am a dedicated website and mobile app designer with a strong passion for UI effects, animations, and creating intuitive, dynamic user experiences. I thrive on bringing innovative ideas to life and ensuring seamless interactions for users.",
+    "chooseme": "Why Choose Me ?",
+    "skill": "My Skills",
+    "m2": "Full stack developer with an experience of designing, developing and maintaining web as well as mobile applications. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks"
+  },
+  "lang": {
+    "ENG": "English",
+    "GER": "German"
+  },
+  "cv": {
+    "CV-ENG": "CV ENG",
+    "CV-GER": "CV GER"
+  },
+  "month": {
+    "3": "March",
+    "4": "Avril",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "10": "October",
+    "11": "November"
+  },
+  "Qualifications": {
+    "Qualifications": "My Qualifications",
+    "to": "to",
+    "present": "to present",
+    "FSD": "FULL-STACK DEVELOPER at Inovasquad (www.inovasquad.com)",
+    "FS": "FULL-STACK-DEVELOPER",
+    "Diploma": "Diploma in Information Technology",
+    "Diplomatxt": "Specialized Institute of Applied Information Technology",
+    "Bachelor": "baccalaureate of Physical Science",
+    "jobtext": "Working in an marketing company (GM solution SARL) with IT solutions",
+    "SwD": "SOFTWARE DEVELOPER at forium GmbH , Berlin, Germany (www.forium.de).",
+    "inper": "SOFTWARE DEVELOPER at INperfektion GmbH, wegberg, Deutschland (www.inperfektion.de)."
+  },
+  "accounts": {
+    "more": "More Details",
+    "android": "Here you can find all my Android apps.",
+    "ios": "Here you can find all my IOS apps.",
+    "link": "My linkedin",
+    "Git": "Here you will find all my source code in GitHub.",
+    "xing": "My Xing"
+  },
+  "pro": {
+    "coming": "Coming soon"
+  },
+  "contact": {
+    "contact": "Contact Me",
+    "mar": "Morocco"
+  },
+  "steuer": {
+    "suptitle": "Freelance work at forium GmbH (Berlin, Germany).",
+    "text1": "I was working with a mobile app development team (forium GmbH).",
+    "text2": "I have implemented various new features in the steuergo mobile app (SteuerGo - Deine Steuer - App).",
+    "text3": "Communication was mainly based MS Teams."
+  },
+  "inperfcktion": {
+    "suptitle": "Remote work at INperfektion GmbH (wegberg, Deutschland).",
+    "text1": "I have successfully designed and implemented numerous applications and website that have streamlined processes and improved user experiences"
+  }
+}
